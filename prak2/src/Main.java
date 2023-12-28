@@ -47,7 +47,7 @@ public class Main {
 
         System.out.println("\nПервые 10 чисел гармонического ряда:");
         for (int r = 1; r <= 10; r++) {
-            System.out.print(1.0 / i + " ");
+            System.out.print(1.0 / r + " ");
         }
         System.out.println();
 
